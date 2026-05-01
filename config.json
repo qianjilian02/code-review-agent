@@ -1,0 +1,21 @@
+{
+    "project_name": "智能代码复审与知识管理一体化Agent系统",
+    "model_config": {
+        "coding_model": "gpt-4o",
+        "review_model": "claude-3-opus",
+        "qa_model": "gpt-4o"
+    },
+    "agent_list": [
+        "Coding Agent",
+        "Review Agent",
+        "QA Agent"
+    ],
+    "support_features": [
+        "多Agent协作调度",
+        "PR历史跟踪",
+        "长链推理分析",
+        "自动文档生成",
+        "知识库自动归档"
+    ],
+    "daily_capacity": "200+ code reviews per day"
+}
