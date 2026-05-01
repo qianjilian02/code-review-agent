@@ -1,0 +1,22 @@
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 编译文件
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# 环境变量
+.env
+.env.local
+
+# 日志
+logs/
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
